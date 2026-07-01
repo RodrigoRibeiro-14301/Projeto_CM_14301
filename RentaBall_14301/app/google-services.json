@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079572073497",
+    "project_id": "rentaball-60b6b",
+    "storage_bucket": "rentaball-60b6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079572073497:android:59e8503480edea56486e88",
+        "android_client_info": {
+          "package_name": "com.example.campo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI3iTk1wLAWJyIYdhYcCRYxo9o1Aa8dkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079572073497:android:ee64a6080be04dfb486e88",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI3iTk1wLAWJyIYdhYcCRYxo9o1Aa8dkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

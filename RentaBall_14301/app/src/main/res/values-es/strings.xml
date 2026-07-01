@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Campo</string>
+    <string name="app_display_name">RENTABALL</string>
+    <string name="splash_subtitle">Reserva tu campo en Lisboa</string>
+    <string name="btn_back">Volver</string>
+    <string name="no_account">Sin cuenta</string>
+
+    <!-- Login -->
+    <string name="label_email">Correo electrónico</string>
+    <string name="label_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Registrarse</string>
+
+    <!-- Home -->
+    <string name="home_ready">¿Listo para jugar hoy?</string>
+    <string name="search_placeholder">Buscar campos en Lisboa…</string>
+    <string name="home_featured">Destacados</string>
+    <string name="home_featured_subtitle">Los campos más populares</string>
+    <string name="fields_found">%d campos encontrados</string>
+    <string name="no_fields_found">Ningún campo encontrado.</string>
+    <string name="filter_results">Filtrados</string>
+    <string name="near_you">Cerca de Ti</string>
+
+    <!-- Explore -->
+    <string name="explore_title">Explorar Campos</string>
+    <string name="explore_subtitle">Lisboa y alrededores</string>
+    <string name="per_hour">por hora</string>
+
+    <!-- Field Details -->
+    <string name="field_not_found">Campo no encontrado.</string>
+    <string name="available_times">Horarios Disponibles</string>
+    <string name="slot_free">Libre</string>
+    <string name="slot_occupied">Ocupado</string>
+    <string name="per_hour_short">/hora</string>
+    <string name="btn_book_now">Reservar Ahora</string>
+    <string name="booking_loading">Reservando…</string>
+    <string name="today">Hoy</string>
+
+    <!-- Reservations -->
+    <string name="reservations_title">Mis Reservas</string>
+    <string name="reservations_total">%d reservas en total</string>
+    <string name="tab_upcoming">Próximas (%d)</string>
+    <string name="tab_history">Historial (%d)</string>
+    <string name="empty_upcoming">Sin reservas próximas.</string>
+    <string name="empty_history">Sin historial de reservas.</string>
+    <string name="status_confirmed">CONFIRMADO</string>
+    <string name="status_completed">COMPLETADA</string>
+
+    <!-- Profile -->
+    <string name="section_account">CUENTA</string>
+    <string name="menu_notifications">Notificaciones</string>
+    <string name="menu_payment">Pago</string>
+    <string name="menu_terms">Términos y Condiciones</string>
+    <string name="section_preferences">PREFERENCIAS</string>
+    <string name="menu_help">Ayuda</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="btn_logout">Cerrar Sesión</string>
+
+    <!-- Settings -->
+    <string name="section_account_info">INFORMACIÓN DE CUENTA</string>
+    <string name="section_subscription">SUSCRIPCIÓN</string>
+    <string name="pro_subtitle_settings">20€/mes · Ver beneficios</string>
+
+    <!-- PRO -->
+    <string name="pro_promo_badge">PROMOCIÓN</string>
+    <string name="pro_per_month">por mes</string>
+    <string name="btn_buy_now">Comprar Ahora</string>
+    <string name="btn_cancel_subscription">Cancelar Suscripción</string>
+    <string name="pro_cancel_note">Cancela cuando quieras. Sin compromiso.</string>
+    <string name="pro_feature_1">Árbitro incluido en todos los juegos</string>
+    <string name="pro_feature_2">Botellas de agua para todos los jugadores</string>
+    <string name="pro_feature_3">15 minutos extra de descanso</string>
+    <string name="pro_feature_4">Acceso prioritario a los campos más populares</string>
+    <string name="pro_feature_5">Estadísticas detalladas de tus juegos</string>
+
+    <!-- Help -->
+    <string name="help_section_title">Cómo usar RENTABALL</string>
+    <string name="help_topic_1_title">Encontrar un Campo</string>
+    <string name="help_topic_1_body">En la pantalla principal o en Explorar, navega por los campos disponibles en Lisboa. Toca un campo para ver detalles como ubicación, precio y horarios disponibles.</string>
+    <string name="help_topic_2_title">Hacer una Reserva</string>
+    <string name="help_topic_2_body">En la pantalla de detalles del campo, elige el día y el horario que prefieres. Luego toca en Reservar Ahora para confirmar. La reserva se guarda automáticamente en tu cuenta.</string>
+    <string name="help_topic_3_title">Ver Mis Reservas</string>
+    <string name="help_topic_3_body">Accede a la pestaña Reservas en la barra de navegación para ver todas tus reservas. Puedes filtrar entre reservas futuras y pasadas.</string>
+    <string name="help_topic_4_title">Mi Cuenta</string>
+    <string name="help_topic_4_body">En la pestaña Perfil puedes gestionar tu información, ver los datos de pago y acceder a la configuración de la cuenta.</string>
+    <string name="help_topic_5_title">Pago</string>
+    <string name="help_topic_5_body">El pago se procesa de forma segura a través de la tarjeta registrada en tu cuenta. El precio de cada reserva se indica en la pantalla de detalles del campo.</string>
+    <string name="help_topic_6_title">Problemas o Dudas</string>
+    <string name="help_topic_6_body">Si tienes algún problema con la aplicación o una reserva, contáctanos en suporte@rentaball.pt. Respondemos en menos de 24 horas.</string>
+
+    <!-- Terms -->
+    <string name="terms_last_updated">Última actualización: Enero de 2025</string>
+    <string name="terms_s1_title">1. Aceptación de los Términos</string>
+    <string name="terms_s1_body">Al utilizar la aplicación RENTABALL, el usuario declara haber leído, comprendido y aceptado en su totalidad los presentes Términos y Condiciones. Si no está de acuerdo con alguno de los términos aquí presentados, deberá cesar inmediatamente el uso de la aplicación.</string>
+    <string name="terms_s2_title">2. Descripción del Servicio</string>
+    <string name="terms_s2_body">RENTABALL es una plataforma de reserva de campos de fútbol en Lisboa y alrededores. Funcionamos como intermediarios entre los usuarios y los operadores de los campos, facilitando el proceso de reserva, pago y gestión de los horarios disponibles.</string>
+    <string name="terms_s3_title">3. Registro y Cuenta</string>
+    <string name="terms_s3_body">Para utilizar los servicios de RENTABALL es necesario crear una cuenta con una dirección de correo electrónico válida y una contraseña segura. El usuario es responsable de mantener la confidencialidad de sus credenciales de acceso y de todas las actividades realizadas con su cuenta.</string>
+    <string name="terms_s4_title">4. Reservas y Cancelaciones</string>
+    <string name="terms_s4_body">Las reservas quedan confirmadas tras completar el proceso de pago. El usuario puede cancelar una reserva hasta 24 horas antes del horario programado sin coste adicional. Las cancelaciones realizadas con menos de 24 horas de antelación podrán estar sujetas a una tarifa de cancelación del 50% del valor total de la reserva.</string>
+    <string name="terms_s5_title">5. Pagos</string>
+    <string name="terms_s5_body">Todos los pagos se procesan de forma segura a través de nuestros socios de pago certificados. Los precios mostrados incluyen IVA al tipo legal vigente. RENTABALL se reserva el derecho de modificar los precios en cualquier momento, sin que las reservas ya confirmadas se vean afectadas.</string>
+    <string name="terms_s6_title">6. Responsabilidades del Usuario</string>
+    <string name="terms_s6_body">El usuario se compromete a utilizar las instalaciones reservadas de forma responsable y a respetar las normas de cada campo. Los daños causados en las instalaciones durante el período de reserva son responsabilidad del usuario. Es obligatorio el uso de calzado deportivo adecuado.</string>
+    <string name="terms_s7_title">7. Privacidad y Datos Personales</string>
+    <string name="terms_s7_body">Los datos personales recopilados se tratan de acuerdo con el Reglamento General de Protección de Datos (RGPD). Utilizamos sus datos exclusivamente para la gestión de reservas y para mejorar la experiencia en la aplicación. Nunca compartimos sus datos con terceros sin su consentimiento explícito.</string>
+    <string name="terms_s8_title">8. Limitación de Responsabilidad</string>
+    <string name="terms_s8_body">RENTABALL no se responsabiliza por lesiones o accidentes ocurridos durante el uso de los campos reservados, por condiciones meteorológicas que impidan el uso de las instalaciones, o por cualquier daño indirecto derivado del uso de la plataforma.</string>
+    <string name="terms_s9_title">9. Cambios en los Términos</string>
+    <string name="terms_s9_body">RENTABALL se reserva el derecho de actualizar estos Términos y Condiciones en cualquier momento. Los cambios entran en vigor inmediatamente tras su publicación en la aplicación. El uso continuado de la plataforma tras la publicación de los cambios implica la aceptación de los nuevos términos.</string>
+    <string name="terms_s10_title">10. Contacto</string>
+    <string name="terms_s10_body">Para cualquier consulta relacionada con estos Términos y Condiciones, puede contactarnos en suporte@rentaball.pt o por teléfono en +351 210 000 000, disponible de lunes a viernes, de 9h a 18h.</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_explore">Explorar</string>
+    <string name="nav_reservations">Reservas</string>
+    <string name="nav_profile">Perfil</string>
+
+    <string name="pro_price">20€/mes</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_tonight">Esta noche</string>
+    <string name="filter_sintetico">Sintético</string>
+</resources>
