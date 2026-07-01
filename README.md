@@ -1,7 +1,7 @@
 # RENTABALL
 
 ## Screens
-- [SplashScreen](app/src/main/java/com/example/campo/ui/screens/splash/SplashScreen.kt)
+- [SplashScreen](RentaBall_14301/app/src/main/java/com/example/campo/ui/screens/splash/SplashScreen.kt)
 - [LoginScreen](app/src/main/java/com/example/campo/ui/screens/login/LoginScreen.kt)
 - [HomeScreen](app/src/main/java/com/example/campo/ui/screens/home/HomeScreen.kt)
 - [ExploreScreen](app/src/main/java/com/example/campo/ui/screens/explore/ExploreScreen.kt)
